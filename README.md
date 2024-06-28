@@ -1,4 +1,4 @@
-# Introduction to Robotic Operating System (IROS2)
+# Introduction to Robotic Operating System (IROS)
 
 ## Course Structure
 

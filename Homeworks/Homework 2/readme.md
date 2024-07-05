@@ -16,10 +16,10 @@ Finish the grid_world package by finishing the following subtaks:
 4. Publish score to topic ‘score’ as float message.
 5. Both of score and state must be published every 1 second.
 6. Subscribe to ‘usr_cmd’ topic which send commands as a string message which has one string with the following possiblties:
-   * ‘u’ : Player moves up
-   * ‘d’ : Player moves down
-   * ‘l’ : Player moves down
-   * ‘r’ : Player moves down
+   * ‘u’ : Player moves up.
+   * ‘d’ : Player moves down.
+   * ‘l’ : Player moves left.
+   * ‘r’ : Player moves right.
 7. If the command leads to an obstacle block or outside world boundray, player stays in its place.
 8. Each time command is recived the score decreased by 1.
 9. If player reached the terminal block, display the score on the terminal.

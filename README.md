@@ -11,7 +11,7 @@
       
 * Section 2
   * ROS2 Publisher Topic Subscriber [Lec04](https://github.com/AliJnadi/IROS/blob/main/ROS2/Lectures/IROS_Fundamentals.pdf), [Hello World package](https://github.com/AliJnadi/IROS/tree/main/IROS/Hello_world)
-  * [Homework02]([https://github.com/AliJnadi/IROS/blob/main/Homeworks/Homework%201/Homework%201.pdf](https://github.com/AliJnadi/IROS/tree/main/Homeworks/Homework%202))
+  * [Homework02](https://github.com/AliJnadi/IROS/tree/main/Homeworks/Homework%202)
 
 # Clone the Repo
 You can refere to [this](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository), for full information.
